@@ -1,3 +1,3 @@
-# repo-remoto
+# Repositório Local
 
-Repositório antes do commit clone
+Descrição inserida no repositório local depois do clone
